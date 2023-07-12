@@ -21,7 +21,6 @@ jobs:
           plugin_lines: yes
           plugin_traffic: yes
           plugin_languages_colors: github
-          plugin_languages_ignored:                        # List of languages to ignore
           plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
           plugin_languages_threshold: 2%                               # Hides all languages less than 2%
           plugin_languages_limit: 8                                    # Display up to 8 languages
