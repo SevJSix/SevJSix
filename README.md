@@ -5,6 +5,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5">
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
 </p>
 
 <img align="right" src="https://github.com/SevJSix/SevJSix/blob/main/github-metrics.svg">
@@ -13,5 +14,5 @@
 - ⚡ Comfortable with Java, JavaScript, HTML5, CSS3, Python, AHK, and a few others
 
 ### Current Projects
-- 🚀 [6b6tPVPCore]([https://github.com/SevJSix/IceAnarchyCore](https://github.com/XeraPlugins/6b6tPVPCore)) 
+- 🚀 [6b6tPVPCore](https://github.com/XeraPlugins/6b6tPVPCore)
 
